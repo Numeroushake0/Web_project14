@@ -1,9 +1,0 @@
-
-
-SOURCEDIR="source"
-
-BUILDDIR="build/html"
-
-sphinx-build -b html "$SOURCEDIR" "$BUILDDIR"
-
-echo "Документація зібрана у $BUILDDIR"
