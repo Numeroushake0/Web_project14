@@ -1,0 +1,13 @@
+fastapi
+uvicorn[standard]
+sqlalchemy
+asyncpg
+databases
+pydantic
+python-dotenv
+cloudinary
+aioredis
+slowapi
+fastapi-mail
+python-jose[cryptography]
+passlib[bcrypt]
